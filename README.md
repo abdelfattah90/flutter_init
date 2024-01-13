@@ -1,3 +1,3 @@
-# Flutter init
+# Flutter_init
 
-A new Flutter empty project.
+Folder structure and file names
